@@ -121,23 +121,23 @@
       "placeholder": {
         "default": "What do you want to watch?",
         "extra": [
-          "What do you want to explore?",
-          "What's on your watchlist?",
-          "What's your favorite movie?",
-          "What's your favorite series?"
+          "Test What do you want to explore?",
+          "Test What's on your watchlist?",
+          "Test What's your favorite movie?",
+          "Test What's your favorite series?"
         ]
       },
       "sectionTitle": "Search results"
     },
     "titles": {
       "day": {
-        "default": "What would you like to watch this afternoon?",
+        "default": "Test What would you like to watch this afternoon?",
         "extra": [
           "Feeling adventurous? Jurassic Park might be the perfect choice."
         ]
       },
       "morning": {
-        "default": "What would you like to watch this morning?",
+        "default": "Test What would you like to watch this morning?",
         "extra": ["I hear Before Sunrise is good"]
       },
       "night": {
