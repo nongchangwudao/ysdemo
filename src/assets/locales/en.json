@@ -121,23 +121,23 @@
       "placeholder": {
         "default": "What do you want to watch?",
         "extra": [
-          "Test What do you want to explore?",
-          "Test What's on your watchlist?",
-          "Test What's your favorite movie?",
-          "Test What's your favorite series?"
+          "你好呀，movie-web",
+          "你好呀，movie-web",
+          "你好呀，movie-web",
+          "你好呀，movie-web"
         ]
       },
       "sectionTitle": "Search results"
     },
     "titles": {
       "day": {
-        "default": "Test What would you like to watch this afternoon?",
+        "default": "你好呀，movie-web",
         "extra": [
           "Feeling adventurous? Jurassic Park might be the perfect choice."
         ]
       },
       "morning": {
-        "default": "Test What would you like to watch this morning?",
+        "default": "你好呀，movie-web",
         "extra": ["I hear Before Sunrise is good"]
       },
       "night": {
