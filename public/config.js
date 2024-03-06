@@ -1,7 +1,7 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
-  VITE_CORS_PROXY_URL: "https://zzysdemo.netlify.app",
+  VITE_CORS_PROXY_URL: "https://zzysdemo.netlify.app/#",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MmViOWQzYzRiMWI0ODVhMDc4NjI3NjM4YmYwODEwMiIsInN1YiI6IjY1ZTgyMTBjZWE0MjYzMDEyZjIxMDllNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.35Em1Jqxpd2bJZ_37Sk6rhmiq9qggmIAwxngf59JFks",
